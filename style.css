@@ -1,0 +1,16 @@
+body {
+    background-color: aqua;
+}
+
+h1 { 
+    text-size-adjust: 54px;
+}
+
+p {
+    text-size-adjust: 54px;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+}
